@@ -1,4 +1,4 @@
-# Oceanwave forecasting
+# Data-driven ocean wave forecasting
 Thomas Breunung and Balakumar Balachandran
 
 Department of Mechanical Engineering, University of Maryland, College Park, Maryland 20742, USA
