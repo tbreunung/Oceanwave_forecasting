@@ -14,7 +14,7 @@ The code 'Wave_tank_forecast.m' is an adaptation of the code 'Ocean_wave_forecas
 
  
 # Citation
-Please cite [1] if you use any of these codes for your own work. 
+Please cite [1] or [2] if you use any of these codes for your own work. 
 
 # Reference
 [1] T. Breunung and B. Balachandran. Data-driven, high resolution ocean wave forecasting and extreme wave predictions. Ocean Engineering, in print.
